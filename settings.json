@@ -1,0 +1,14 @@
+{
+    "siteTitle": "Translated Hugo Initiative",
+    "siteDescription": "A website for the Translated Hugo Initiative, a workgroup dedicated to adding a Translated Work Award to the Hugo Awards.",
+    "author": "The Translated Hugo Initiative Working Group",
+    "faviconUrl": "/assets/myfavicon.png",
+    "blogTitle": "Thoughts in Translation",
+    "customLinks": [
+        {
+            "url": "https://github.com/ita-design-system/eleventy-libdoc",
+            "text": "GitHub"
+        }
+    ],
+    "editThisPageRootUrl": "https://github.com/ita-design-system/eleventy-libdoc/blob/main"
+}
