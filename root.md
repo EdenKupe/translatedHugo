@@ -7,7 +7,7 @@ date: git Last Modified
 tags:
     - intro
 ---
-{% alert 'It seems to be the beginning of a great documentation story!', 'success', 'Howdy!' %}
+{% alert '🛠️This website is under construction! 🛠️', 'success', 'Greetings!' %}
 
 ## Who we are
 
