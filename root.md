@@ -11,8 +11,8 @@ tags:
 
 ## Who we are
 
-1. {% iconCard 'A group of readers, writers, critics, and fans passionate about translated SFF', 'Learn more about us by checking out our About Us page. <br>[About Us](/about-us).', 'faders' %}
-2. {% iconCard 'We Want to add a Best Translated Work Award to the Hugos!', 'We think this will enrich the awards and our community at large. <br>[Read more about why here!](/why-award).', 'pen' %}
+1. {% iconCard 'A group of readers, writers, critics, and fans passionate about translated SFF', 'Learn more about us by checking out our About Us page. <br>[About Us](/about-us).', 'magnifying-glass' %}
+2. {% iconCard 'We Want to add a Best Translated Work Award to the Hugos!', 'We think this will enrich the awards and our community at large. <br>[Read more about why here!](/why-award)', 'pen' %}
 
 ## Get involved
 
