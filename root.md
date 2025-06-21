@@ -21,3 +21,5 @@ Our workgroup is run on an open and inclusive framework. Here's how you can help
 * **Translate this website** into your own language! Use GitHub to suggest edits directly or reach out to us [here](address@gmail.com)!
 * **Join our work group** by reaching out [here](address@gmail.com). We're always looking for more people to help us ideate, write content, reach out to interested parties, and in general make the project work!
 * **Attend Hugo Awards business meetings**. If you're already a member of the Hugos and want to help us push this initiative (or even commit to voting with us), let us know [here](address@gmail.com)!
+
+* Change
