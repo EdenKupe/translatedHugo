@@ -2,7 +2,7 @@
 title: Casella Test Page
 description: Because more languages = gooder
 layout: libdoc_page.liquid
-permalink: index.html
+permalink: casella-test/index.html
 date: git Last Modified
 tags:
     - intro
