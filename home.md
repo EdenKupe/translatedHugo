@@ -1,3 +1,5 @@
+# The Translated Hugo Initiative #
+
 Speculative fiction—including science fiction, fantasy, and related genres—is a global phenomenon. There is a wealth of communities and organizations creating and celebrating SF around the world, and yet, within English-speaking circles, there are no major awards highlighting translated speculative fiction.
 
 The Translated Hugo Initiative wants to change that, by introducing a Hugo Award for Best Translated Work. The Hugos are the annual awards bestowed by the World Science Fiction Society, and generally recognized as the most influential and important award for speculative genres for more than 80 years. However, over the course of the award’s history, only a handful of originally non-English works have made the shortlist, and only a single translated novel has won: Cixin Liu’s *The Three-Body Problem*, translated by Ken Liu, in 2015.
