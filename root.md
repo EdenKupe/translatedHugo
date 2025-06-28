@@ -1,15 +1,14 @@
 ---
 title: Translated Hugo Initiative
-description: Because more languages = gooder
+description: Putting the World in Worldcon
 layout: libdoc_page.liquid
 permalink: index.html
 date: git Last Modified
 tags:
     - intro
 ---
-{% alert '🛠️This website is under construction! 🛠️', 'success', 'Heads up!' %}
 
-# The Translated Hugo Initiative #
+# It's time to recognize Global SF #
 
 Speculative fiction—including science fiction, fantasy, and related genres—is a global phenomenon. There is a wealth of communities and organizations creating and celebrating SF around the world, and yet, within English-speaking circles, there are no major awards highlighting translated speculative fiction.
 
