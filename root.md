@@ -1,5 +1,5 @@
 ---
-title: Translated Hugo Initiative
+title: The Translated Hugo Initiative
 description: Putting the World in Worldcon
 layout: libdoc_page.liquid
 permalink: index.html
