@@ -2,7 +2,7 @@
 title: Links
 description: Speculative Fiction in Translation, and related topics, around the web
 layout: libdoc_page.liquid
-permalink: eligexam/index.html
+permalink: links/index.html
 eleventyNavigation: 
     key: Links
     parent: Resources
