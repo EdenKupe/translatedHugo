@@ -25,7 +25,7 @@ The Translated Hugo Initiative is **not** proposing anything at the 2025 Busines
     * Nominating period: February 10 - March 14
     * Voting period: April 23 - July 23
     * Awards presented: August 16
-* **Business Meetings:** In a hopefully-permament move, Worldcon is now holding most of it's business meetings virtually, before the convention takes place, so that members don't have to decide between lengthy parliamentary meetings and all the fun stuff they traveled for. There are a few other reforms being discussed, but the virtual are business meetings are a big step towards allowing more members to participate.
+* **Business Meetings:** In a hopefully-permament move, Worldcon is now holding most of it's business meetings virtually, before the convention takes place, so that members don't have to decide between lengthy parliamentary meetings and all the fun stuff they traveled for. There are a few other reforms being discussed, but the virtual are business meetings are a big step towards allowing more members to participate. [Click here for more info about the Seattle Business Meetings](https://seattlein2025.org/wsfs/business-meeting/agenda-and-information/), including agendas and virtual meeting instructions.
     * Virtual Town Hall: May 25 [(video available)](https://youtu.be/CQ9QA-yBaYo?si=gMG7J0LN7B6li2kE)
     * Tech Test Period: Tuesday July 1, 7-10am & 3-6pm PDT
     * Preliminary Business Meeting: Friday, July 4, 9am–12:30pm PDT
