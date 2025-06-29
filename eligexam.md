@@ -5,6 +5,7 @@ layout: libdoc_page.liquid
 permalink: eligexam/index.html
 eleventyNavigation: 
     key: Eligibility & Examples
+    parent: Resources
 date: git Last Modified
 tags: 
 
