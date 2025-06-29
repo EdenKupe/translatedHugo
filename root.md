@@ -33,8 +33,8 @@ Our workgroup is run on an open and inclusive framework. Here's how you can help
 
 * **Translate this website** into your own language! Use GitHub to suggest edits directly or reach out to us [here](translatedhugo@gmail.com)!
 * **Join our work group** by reaching out [here](translatedhugo@gmail.com). We're always looking for more people to help us ideate, write content, reach out to interested parties, and in general make the project work! We're particularly looking to add team members who are:
-    *WSFS Members or otherwise involved in the SF convention scene
-    *Graphic designers
-    *Social media power-users (we could use some help spreading the word and making connections in the BookTok, Bookstagram, & Booktube worlds, and places like Tumblr & Reddit)
-    *Translators: as mentioned above, we plan to offer at least some pages on this website in as many languages as we can, and we want to spread the word about the initative to SF groups around the world.
+    * WSFS Members or otherwise involved in the SF convention scene
+    * Graphic designers
+    * Social media power-users (we could use some help spreading the word and making connections in the BookTok, Bookstagram, & Booktube worlds, and places like Tumblr & Reddit)
+    * Translators: as mentioned above, we plan to offer at least some pages on this website in as many languages as we can, and we want to spread the word about the initative to SF groups around the world.
 * **Attend Hugo Awards business meetings**. If you're already a member of the Hugos and want to help us push this initiative (or even commit to voting with us), let us know [here](translatedhugo@gmail.com)!
