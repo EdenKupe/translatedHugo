@@ -5,7 +5,7 @@ layout: libdoc_page.liquid
 permalink: index.html
 date: git Last Modified
 tags:
-    - intro
+    
 ---
 
 # It's time to recognize Global SF #
