@@ -31,10 +31,12 @@ So: lots to come, watch this space! If you are a fan of this idea, we’d love i
 
 Our workgroup is run on an open and inclusive framework. Here's how you can help:
 
+* **Add your name to the [signatory page](https://docs.google.com/forms/d/e/1FAIpQLSfzKqYPE3rrvZm0Y8KPEKCNFsXs8j1Sn9qHu48yM-0LWZe5yw/viewform?usp=header)!**
+* **Share this page so people hear about the initiative!** It's hard to get the word out about projects like this—a lot of SFF and literary folks are all split off into separate bubbles. If you're excited about the idea of a Hugo for translated speculative work, spreading the idea on your social medias and other networks of choice would be immensely helpful.
 * **Translate this website** into your own language! Use GitHub to suggest edits directly or reach out to us [here](mailto:translatedhugo@gmail.com)!
 * **Join our work group** by reaching out [here](mailto:translatedhugo@gmail.com). We're always looking for more people to help us ideate, write content, reach out to interested parties, and in general make the project work! We're particularly looking to add team members who are:
     * WSFS Members or otherwise involved in the SF convention scene
     * Graphic designers
     * Social media power-users (we could use some help spreading the word and making connections in the BookTok, Bookstagram, & Booktube worlds, and places like Tumblr & Reddit)
     * Translators: as mentioned above, we plan to offer at least some pages on this website in as many languages as we can, and we want to spread the word about the initative to SF groups around the world.
-* **Attend Hugo Awards business meetings**. If you're already a member of the Hugos and want to help us push this initiative (or even commit to voting with us), let us know [here](mailto:translatedhugo@gmail.com)!
+* **Attend Worldcon business meetings**. If you're already a member of WSFS and want to help us push this initiative, let us know [here](mailto:translatedhugo@gmail.com)!
