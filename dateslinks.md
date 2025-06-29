@@ -12,7 +12,7 @@ tags:
 ---
 
 # Worldcons & Related Dates
-The **World Science Fiction Convention** (Worldcon) is an annual event that moves to a different location every year. Members of the **World Science Fiction Society** (WSFS) nominate and vote on works for the **Hugo**, **Astounding**, and **Lodestar** awards, which are presented at Worldcon, and also vote on bids to host future Worldcons. Attending members can also attend the **Business Meetings** (BM), where changes to the WSFS constitution are proposed, discussed, and voted on. Note that attending membership can be virtual or in person, and also that there is a category of "supporting" membership that allows you to nominate and vote for the awards, but not, currently, for Business Meeting matters.
+The **World Science Fiction Convention** (Worldcon) is an annual event that moves to a different location every year. Members of the **World Science Fiction Society** (WSFS) nominate and vote on works for the **Hugo**, **Astounding**, and **Lodestar** awards, which are presented at Worldcon, and also vote on bids to host future Worldcons. Attending members can also participate in the **Business Meetings** (BM), where changes to the WSFS constitution are proposed, discussed, and voted on. Note that attending membership can be virtual or in person, and also that there is a category of "supporting" membership that allows you to nominate and vote for the awards, but not, currently, for Business Meeting matters.
 
 Adding a Hugo for Translated Speculative fiction will require formally proposing it for a Business Meeting agenda, having enough supporting votes to pass when it comes up, and then ratifying the amendment at the following year's business meeting.
 
