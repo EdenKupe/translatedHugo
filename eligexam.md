@@ -4,7 +4,7 @@ description:
 layout: libdoc_page.liquid
 permalink: eligexam/index.html
 eleventyNavigation: 
-    key: eligexam
+    key: Eligibility & Examples
 date: git Last Modified
 tags: 
 
