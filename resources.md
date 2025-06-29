@@ -10,4 +10,5 @@ tags:
   
 ---
 
-Oh very useful
+We'll be adding more here over time, but for now check out:
+* Our [eligibility information](eligexam), with lists of eligible work to show how much is out there, and other kinds of highlights.
