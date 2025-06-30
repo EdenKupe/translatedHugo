@@ -13,7 +13,6 @@ tags:
 
 # General Resources for Translated & Global Speculative Fiction
 * [**Speculative Fiction in Translation**](https://www.sfintranslation.com/)- a wealth of information, reviews, links, and more, from THWG member Rachel Cordasco. Lots of the information feeding into this project, and contained in the pages on this site, are drawn from work Rachel has done, and the site is routinely updated with more.
-* [**Words Without Borders**]()- 
 
 # Information about the Hugos, Worldcon, and other notable cons & awards:
 * [**The Hugo Awards**]()- official site; includes history and nominating/voting rules
