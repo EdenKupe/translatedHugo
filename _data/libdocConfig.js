@@ -18,7 +18,7 @@ export default {
     siteLogoMaxHeight: userConfig.siteLogoMaxHeight ?? 60,
     author: userConfig.author ?? false,
     faviconUrl: userConfig.faviconUrl ?? "/favicon.png",
-    ogImageUrl: userConfig.ogImageUrl ?? "https://github.com/EdenKupe/translatedHugo/blob/c1db4c0d9eb342cb56a3ee199240907f9122d5b3/assets/offcomet87.png",
+    ogImageUrl: userConfig.ogImageUrl ?? "/assets/offcomet87.png",
     customLinks: userConfig.customLinks ?? [],
     blogTitle: userConfig.blogTitle ?? "Blog Posts",
     blogDescription: userConfig.blogDescription ?? false,
