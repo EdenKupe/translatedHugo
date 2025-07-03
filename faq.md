@@ -53,7 +53,7 @@ Other things you can do to help in the meantime:
 
 * [Become a signatory to the initiative](/signatories), to show that folks like this idea!
 * If you’re not already a Worldcon-goer or Hugo-voter, take a look at how it works! Supporting memberships are a great way to dip your toe in—that gives you nominating and voting rights for the awards, as well as access to perks like the Voter’s Packet.
-* Sign up for our mailing list while you’re at it, and follow us on social media (currently just [Bluesky](https://bsky.app/profile/translatedhugo.bsky.social) for updates!
+* Sign up for our mailing list while you’re at it, and follow us on social media (currently just [Bluesky](https://bsky.app/profile/translatedhugo.bsky.social)) for updates!
 * [Suggest eligible translated works](https://docs.google.com/forms/d/e/1FAIpQLSe4aO1Kgh5KTBdDk-MbYUKYIEbyFWe5w2SFReP-JmZKotCwTQ/viewform?usp=header) so that we can add them to our lists, or [contribute a panel idea](https://ladybusiness.dreamwidth.org/2016/02/11/hugo-award-recommendations.html) that can be shared with interested conventions and conferences.
 * Share the initiative! It’s hard to get the word out to all the SF-loving communities out there.
 * If you're a reviewer, [let us know](/mailto:translatedhugo@gmail.com) if you've reviewed translated speculative fiction, especially recent works!
