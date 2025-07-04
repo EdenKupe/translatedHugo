@@ -15,9 +15,11 @@ This page will be updated with the names of folks who support the proposal to ad
 ---
 **Alexander Dickow** - *Author, reviewer, translator, fan.* <br> 
 **Arkady Martine** - *author, Hugo winner (translator of academic things, also)* <br> 
+**Jake Casella Brookins** - *Reviewer, editor, podcaster. Hugo & Ignyte finalist.* <br> 
+**Joachim Boaz** - *Fan writer (SF and Other Suspect Ruminations)* <br> 
 **Dave Agnew** - *Reader and fan (and sometime author and editor)* <br> 
 **Eden Kupermintz** - *Reviewer* <br> 
-**Jake Casella Brookins** - *Reviewer, editor, podcaster. Hugo & Ignyte finalist.* <br> 
 **Jared Stern** - *Reader and fan* <br> 
-**Joachim Boaz** - *Fan writer (SF and Other Suspect Ruminations)* <br> 
+**Kate Dollarhyde** - *author, game designer, former co-Editor-in-Chief of Strange Horizons; Peabody, Nebula, and GLAAD Media award-winner* <br> 
 **Rachel Cordasco** - *author, editor, reviewer, translator* <br> 
+**Sage Ferreira** - *reader and fan * <br> 
