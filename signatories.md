@@ -22,4 +22,4 @@ This page will be updated with the names of folks who support the proposal to ad
 **Jared Stern** - *Reader and fan* <br> 
 **Kate Dollarhyde** - *author, game designer, former co-Editor-in-Chief of Strange Horizons; Peabody, Nebula, and GLAAD Media award-winner* <br> 
 **Rachel Cordasco** - *author, editor, reviewer, translator* <br> 
-**Sage Ferreira** - *reader and fan * <br> 
+**Sage Ferreira** - *reader and fan* <br> 
