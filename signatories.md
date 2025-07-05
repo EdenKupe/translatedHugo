@@ -40,6 +40,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Jake Casella Brookins** - *Reviewer, editor, podcaster. Hugo & Ignyte finalist.* <br> 
 **Jared Pechaček** - *Author* <br> 
 **Jared Stern** - *Reader and fan* <br> 
+**Jennifer Rimmer** - *Reader and fan!* <br> 
 **Joachim Boaz** - *Fan writer (SF and Other Suspect Ruminations)* <br> 
 **Kate Dollarhyde** - *author, game designer, former co-Editor-in-Chief of Strange Horizons; Peabody, Nebula, and GLAAD Media award-winner* <br> 
 **Laura Kemmerer** - *Reviewer, reader, and fan* <br> 
