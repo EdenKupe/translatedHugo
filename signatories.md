@@ -77,11 +77,13 @@ This page will be updated with the names of folks who support the proposal to ad
 **Robert Kiely** - *Author, editor, reviewer* <br> 
 **Roseanna Pendlebury** - *reviewer, hugo best fan writer nominee, hugo best fanzine winner (with NoaF)* <br> 
 **Roz Milner** - *Reviewer and critic* <br> 
+**Ruth Collard-Stayte ** - *author, librarian, slush reader, reader and fan* <br> 
 **Sage Ferreira** - *reader and fan* <br> 
 **Sam Reader** - *Critic* <br> 
+**Sander Verdonschot** - *Reader* <br> 
 **Sean Guynes** - *Critic and editor* <br> 
 **Seb Doubinsky** - *Author, translator* <br> 
 **Silvia Düssel Schiros** - *Translator* <br> 
 **Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
-**Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
+**Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br>  
