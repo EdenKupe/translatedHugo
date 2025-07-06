@@ -23,7 +23,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Amal El-Mohtar** - *Author, reviewer, have won Hugos & other awards* <br> 
 **Amber** - *Reviewer* <br> 
 **andré carrington** - *Critic, past finalist for Locus Award* <br> 
-**Andy Pressman** - *Cover designer * <br> 
+**Andy Pressman** - *Cover designer* <br> 
 **Arkady Martine** - *author, Hugo winner (translator of academic things, also)* <br> 
 **Ben Ghan** - *Author, Critic, Reader* <br> 
 **Carmen Marin** - *Cultural Consultant, Reader and Fan* <br> 
