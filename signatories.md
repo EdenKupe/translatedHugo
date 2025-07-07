@@ -44,11 +44,14 @@ This page will be updated with the names of folks who support the proposal to ad
 **Emily Aguilar** - *reader and fan!* <br> 
 **Erica Friedman** - *Author, Editor, Publisher* <br> 
 **Fabius Mayland** - *Former researcher in science fiction studies* <br> 
+**Fitz** - *Stargazer* <br> 
 **Frank Rudiger Lopes** - *Author, translator, academic researcher* <br> 
+**Gabriela Ramírez** - *Reader and fan* <br> 
 **Gareth Reeves** - *Author, reviewer, editor* <br> 
 **Hilary Strang** - *reader & teacher of SF* <br> 
 **Ilona Yazhbin Chavasse** - *translator* <br> 
 **Jake Casella Brookins** - *Reviewer, editor, podcaster. Hugo & Ignyte finalist.* <br> 
+**Jan Gehrer** - *librarian* <br> 
 **Jared Pechaček** - *Author* <br> 
 **Jared Stern** - *Reader and fan* <br> 
 **Jennifer R. Donohue** - *author* <br> 
@@ -63,6 +66,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Leigha McReynolds** - *reviewer, teacher, panelist, reader, and fan!* <br> 
 **Margaryta Golovchenko** - *reviewer* <br> 
 **Marita Arvaniti** - *Fantasy Academic and scholar, occasional translator.* <br> 
+**Märten Rattasepp** - *author & reviewer & game writer/narrative designer* <br> 
 **Matthew James Seidel** - *Reviewer* <br> 
 **Megan Cutrofello** - *reviewer, discord mod, book club facilitator* <br> 
 **Melissa Goodyer** - *Amateur student of languages, reader, and fan* <br> 
@@ -72,6 +76,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **O F Cieri** - *Author* <br> 
 **Rachel Brown** - *Reader and fan!* <br> 
 **Rachel Cordasco** - *author, editor, reviewer, translator* <br> 
+**Ramsey Kanaan** - *Publisher, PM Press* <br> 
 **Rebecca Fraimow** - *author and reviewer, Hugo and Locus award finalist* <br> 
 **Ricardo** - *Reader and fan!* <br> 
 **Robert Kiely** - *Author, editor, reviewer* <br> 
