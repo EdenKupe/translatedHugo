@@ -17,7 +17,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Agnes Kormendi** - *translator* <br> 
 **Agnès Renié** - *reader and fan* <br> 
 **Aileen** - *Reader and Hugo Voter* <br> 
-**Alena Rivas** - *Publisher's trade awards coordinator, Publicist for scholarly books including current Hugo nominee Speculative Whiteness: Science Fiction and the Alt-Right by Jordan S. Carroll* <br> 
+**Alena Rivas** - *Publisher's trade awards coordinator, Publicist for scholarly books including current Hugo nominee (Speculative Whiteness)* <br> 
 **Alex Kingsley** - *author, reviewer, reader* <br> 
 **Alex Shvartsman** - *Author, editor, translator; winner of the WSFA Award and a two-time BSFA finalist* <br> 
 **Alex Woodroe** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners,  * <br> 
@@ -106,7 +106,5 @@ This page will be updated with the names of folks who support the proposal to ad
 **Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
 **Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
-**Todd Sanders** - *Editor/Publisher/Translator* <br> 
-**Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
 **Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
