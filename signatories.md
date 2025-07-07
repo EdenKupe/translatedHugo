@@ -19,6 +19,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Aileen** - *Reader and Hugo Voter* <br> 
 **Alena Rivas** - *Publisher's trade awards coordinator, Publicist for scholarly books including current Hugo nominee Speculative Whiteness: Science Fiction and the Alt-Right by Jordan S. Carroll * <br> 
 **Alex Kingsley** - *author, reviewer, reader* <br> 
+**Alex Shvartsman** - *Author, editor, translator; winner of the WSFA Award and a two-time BSFA finalist* <br> 
 **Alex Woodroe** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners,  * <br> 
 **Alexander Dickow** - *Author, reviewer, translator, fan.* <br> 
 **Alexander Pyles** - *Author, editor, & critic; Forward Indie Award-winner* <br> 
@@ -77,9 +78,11 @@ This page will be updated with the names of folks who support the proposal to ad
 **Matthew James Seidel** - *Reviewer* <br> 
 **Megan Cutrofello** - *reviewer, discord mod, book club facilitator* <br> 
 **Melissa Goodyer** - *Amateur student of languages, reader, and fan* <br> 
+**Meredith Howard** - *Promotions Director, Columbia University Press, book publisher* <br> 
 **Michael Kelly** - *Publisher, editor. Winner of the World Fantasy, Shirley Jackson, and British Fantasy Awards* <br> 
 **Michael Manzer** - *Reader* <br> 
 **Michael Uhall** - *author, reviewer, translator* <br> 
+**Michelle Dotter** - *Publisher* <br> 
 **Misha Grifka Wander** - *Hugo and Ignyte Finalist, SFWA Staff Member, PhD, Editor* <br> 
 **Nadia A. King** - *Writer* <br> 
 **O F Cieri** - *Author* <br> 
