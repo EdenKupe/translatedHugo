@@ -17,7 +17,9 @@ This page will be updated with the names of folks who support the proposal to ad
 **Agnes Kormendi** - *translator* <br> 
 **Agnès Renié** - *reader and fan* <br> 
 **Aileen** - *Reader and Hugo Voter* <br> 
+**Alena Rivas** - *Publisher's trade awards coordinator, Publicist for scholarly books including current Hugo nominee Speculative Whiteness: Science Fiction and the Alt-Right by Jordan S. Carroll * <br> 
 **Alex Kingsley** - *author, reviewer, reader* <br> 
+**Alex Woodroe** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners,  * <br> 
 **Alexander Dickow** - *Author, reviewer, translator, fan.* <br> 
 **Alexander Pyles** - *Author, editor, & critic; Forward Indie Award-winner* <br> 
 **Amal El-Mohtar** - *Author, reviewer, have won Hugos & other awards* <br> 
@@ -58,6 +60,8 @@ This page will be updated with the names of folks who support the proposal to ad
 **Jared Stern** - *Reader and fan* <br> 
 **Jennifer R. Donohue** - *author* <br> 
 **Jennifer Rimmer** - *Reader and fan!* <br> 
+**Jeremy Brett** - *Reader, SF&F librarian, reviewer* <br> 
+**Jill Roberts** - *Managing Editor* <br> 
 **JL George** - *Author, reviewer* <br> 
 **Joachim Boaz** - *Fan writer (SF and Other Suspect Ruminations)* <br> 
 **John Mitchell** - *Author and reader* <br> 
@@ -69,10 +73,13 @@ This page will be updated with the names of folks who support the proposal to ad
 **Margaryta Golovchenko** - *reviewer* <br> 
 **Marita Arvaniti** - *Fantasy Academic and scholar, occasional translator.* <br> 
 **Märten Rattasepp** - *author & reviewer & game writer/narrative designer* <br> 
+**Matt Blairstone** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners,  * <br> 
 **Matthew James Seidel** - *Reviewer* <br> 
 **Megan Cutrofello** - *reviewer, discord mod, book club facilitator* <br> 
 **Melissa Goodyer** - *Amateur student of languages, reader, and fan* <br> 
+**Michael Kelly** - *Publisher, editor. Winner of the World Fantasy, Shirley Jackson, and British Fantasy Awards* <br> 
 **Michael Manzer** - *Reader* <br> 
+**Michael Uhall** - *author, reviewer, translator* <br> 
 **Misha Grifka Wander** - *Hugo and Ignyte Finalist, SFWA Staff Member, PhD, Editor* <br> 
 **Nadia A. King** - *Writer* <br> 
 **O F Cieri** - *Author* <br> 
@@ -92,6 +99,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Seb Doubinsky** - *Author, translator* <br> 
 **Silvia Düssel Schiros** - *Translator* <br> 
 **Sira Maliphol** - *Reader and fan!* <br> 
+**Todd Sanders** - *Editor/Publisher/Translator* <br> 
 **Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
 **Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
