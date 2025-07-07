@@ -27,6 +27,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Arkady Martine** - *author, Hugo winner (translator of academic things, also)* <br> 
 **Ben Ghan** - *Author, Critic, Reader* <br> 
 **Carmen Marin** - *Cultural Consultant, Reader and Fan* <br> 
+**Cassiel Merricat** - *translator* <br> 
 **Catarina Nabais** - *Reviewer, reader and fan* <br> 
 **Christy Hall** - *Reader* <br> 
 **Cynthia Zhang** - *author, reviewer, scholar* <br> 
@@ -42,6 +43,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Elias Eells** - *Author and reviewer* <br> 
 **Ellie Campbell** - *Author, reviewer, reader, fan!* <br> 
 **Emily Aguilar** - *reader and fan!* <br> 
+**Eric Lane** - *Publisher* <br> 
 **Erica Friedman** - *Author, Editor, Publisher* <br> 
 **Fabius Mayland** - *Former researcher in science fiction studies* <br> 
 **Fitz** - *Stargazer* <br> 
@@ -89,6 +91,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Sean Guynes** - *Critic and editor* <br> 
 **Seb Doubinsky** - *Author, translator* <br> 
 **Silvia Düssel Schiros** - *Translator* <br> 
+**Sira Maliphol** - *Reader and fan!* <br> 
 **Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
 **Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
