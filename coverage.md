@@ -17,7 +17,7 @@ This is a partial and periodically-updated list of recent reviews, podcasts, int
 
 ---
 # 2025
-* 7/7/2025 | Review | [***The Fake Muse***](http://strangehorizons.com/wordpress/non-fiction/the-fake-muse-by-max-besora-translated-by-mara-faye-lethem/) by Max Besora, translated by Mara Faye Lethem. Will McMahon @ *Strange Horizons*
+* 7/8/2025 | Review | [***Paradiso***](https://chireviewofbooks.com/2025/07/08/your-prayers-are-answered-in-mary-jo-bangs-translation-of-dantes-paradiso/) by Dante Alighieri, translated by Mary Jo Bang. Ross Collin @ *Chicago Review of Books*
 * 7/7/2025 | Review | [***The Fake Muse***](http://strangehorizons.com/wordpress/non-fiction/the-fake-muse-by-max-besora-translated-by-mara-faye-lethem/) by Max Besora, translated by Mara Faye Lethem. Will McMahon @ *Strange Horizons*
 * 7/7/2025 | Review | [***Ultramarine***](http://strangehorizons.com/wordpress/non-fiction/ultramarine-by-mariette-navarro-translated-by-eve-hill-agnus/) by Mariette Navarro, translated by Eve Hill-Agnus. Fernanda Coutinho Teixeira @ *Strange Horizons*
 * 7/7/2025 | Podcast | [***SFF in Translation***](http://strangehorizons.com/wordpress/podcasts/critical-friends-episode-13-sff-in-translation/) by Dan Hartland, Rachel Cordasco, & Will McMahon @ *Critical Friends*
