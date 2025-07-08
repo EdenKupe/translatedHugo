@@ -42,6 +42,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **David Farnell** - *Author, editor, reviewer, academic* <br> 
 **Dee Holloway** - *author, reviewer, reader* <br> 
 **Dylan Hasaton** - *literary agent, reviewer* <br> 
+**Dylan McGonigle** - *bookseller* <br> 
 **E.D.E. Bell** - *editor, publisher, and MIPA award-winning author* <br> 
 **Eddy Torres** - *Reader and fan* <br> 
 **Eden Kupermintz** - *Reviewer* <br> 
@@ -77,6 +78,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Lee Sanhwa** - *Author. Four-time runner-up prize winner of Korean SF Award. (Lee is my family name.)* <br> 
 **Leigha McReynolds** - *reviewer, teacher, panelist, reader, and fan!* <br> 
 **Margaryta Golovchenko** - *reviewer* <br> 
+**Maria Thereza Dumas Neto** - *Reader and fan!* <br> 
 **Marita Arvaniti** - *Fantasy Academic and scholar, occasional translator.* <br> 
 **Märten Rattasepp** - *author & reviewer & game writer/narrative designer* <br> 
 **Matt Blairstone** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners,  * <br> 
