@@ -16,6 +16,7 @@ This is a partial and periodically-updated list of recent reviews, podcasts, int
 *Suggest additions to this list using [this form](https://docs.google.com/forms/d/e/1FAIpQLScAzgr45zl41683jZme2vvM_cZOkIHykDDEvUU1zbWBNyC20Q/viewform?usp=header).*
 
 ---
+# 2025
 * 7/7/2025 | Podcast | [***SFF in Translation***](http://strangehorizons.com/wordpress/podcasts/critical-friends-episode-13-sff-in-translation/) by Dan Hartland, Rachel Cordasco, & Will McMahon @ *Critical Friends*
 * 7/5/2025 | Review | [***The Unworthy***](https://locusmag.com/2025/07/the-unworthy-by-agustina-bazterrica-review-by-gabino-iglesias/) by Agustina Bazterrica, translated by Sarah Moses. Gabino Iglesias @ *Locus*
 * 7/2/2025 | Review | [***I Gave You Eyes and You Looked Toward Darkness***](https://wordswithoutborders.org/book-reviews/lifes-miracles-being-born-and-dying-in-irene-solas-i-gave-you-eyes-and-you-looked-toward-darkness-lethem-oldweiler/) by Irene Solà, translated by Mara Faye Lethem. Cory Oldweiler @ *Words Without Borders*
@@ -74,6 +75,8 @@ This is a partial and periodically-updated list of recent reviews, podcasts, int
 * 1/8/2025 | Review | [***The Proposal***](https://ancillaryreviewofbooks.org/2025/01/08/small-press-dispatch-found-in-translation/) by Bae Myung-Hoon, translated by Stella Kim. Roseanna Pendlebury @ *Ancillary Review of Books*
 * 1/8/2025 | Review | [***The Kwaidan Collection***](https://locusmag.com/2025/01/the-kwaidan-collection-by-lafcadio-hearn-review-by-karen-haber/) by various/traditional, translated by Lafcadio Hearn. Karen Haber @ *Locus*
 * 1/1/2025 | Review | [***Mevlido’s Dreams***](https://worldliteraturetoday.org/2025/january/mevlidos-dreams-post-exotic-novel-antoine-volodine) by Antoine Volodine, translated by Gina M. Stamm. Daniel P. Haeusser @ *World Literature Today*
+---
+# 2024
 * 12/28/2024 | Review | [***The Unworthy***](https://www.kirkusreviews.com/book-reviews/agustina-bazterrica/the-unworthy/) by Agustina Bazterrica, translated by Sarah Moses. Staff @ *Kirkus*
 * 12/24/2024 | Review | [***On the Calculation of Volume I***](https://locusmag.com/2024/12/on-the-calculation-of-volume-i-by-solvej-balle-review-by-jake-casella-brookins/) by Solvej Balle, translated by Barbara Haveland. Jake Casella Brookins @ *Locus*
 * 12/22/2024 | Review | [***A Simple Intervention***](https://locusmag.com/2024/12/a-simple-intervention-by-yael-inokai-review-by-niall-harrison/) by Yael Inokai, translated by Marielle Suther­land. Niall Harrison @ *Locus*
