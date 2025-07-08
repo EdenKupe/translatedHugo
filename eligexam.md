@@ -18,6 +18,5 @@ On these pages, we're going to share:
     * [2025](/elig2025)
     * [2026](/elig2026)
 * A few "hypothetical ballots" demonstrating the range & strength of currently available translated SF, with clips & links to demonstrate that people are reading and discussing these works
-* [Periodically updated coverage](/coverage), listing reviews, podcasts, interviews, essays, and other articles, to demonstrate that translated SF is being read and discussed
   
 If you'd like to suggest a recent or forthcoming title to add to our lists, please do so using [this form](https://docs.google.com/forms/d/e/1FAIpQLSe4aO1Kgh5KTBdDk-MbYUKYIEbyFWe5w2SFReP-JmZKotCwTQ/viewform?usp=header).
