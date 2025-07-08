@@ -13,6 +13,8 @@ tags:
 
 This is a partial and periodically-updated list of recent reviews, podcasts, interviews, and other coverage of or about book-length translated speculative fiction, to demonstrate that global SF **is** being read and discussed! Note that dates are based on web publication, and may differ from print dates.
 
+*Suggest additions to this list using [this form](https://docs.google.com/forms/d/e/1FAIpQLScAzgr45zl41683jZme2vvM_cZOkIHykDDEvUU1zbWBNyC20Q/viewform?usp=header).*
+
 ---
 
 * 7/5/2025 | Review | [***The Unworthy***](https://locusmag.com/2025/07/the-unworthy-by-agustina-bazterrica-review-by-gabino-iglesias/) by Agustina Bazterrica, translated by Sarah Moses. Gabino Iglesias @ *Locus*
