@@ -33,6 +33,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Cassiel Merricat** - *translator* <br> 
 **Catarina Nabais** - *Reviewer, reader and fan* <br> 
 **Christy Hall** - *Reader* <br> 
+**Cynthia Shin** - *reviewer, academic, translator, fan <3* <br> 
 **Cynthia Zhang** - *author, reviewer, scholar* <br> 
 **Daniel A. Rabuzzi** - *Reader first and foremost, also an author, editor, reviewer and translator.* <br> 
 **Daniel Shank Cruz** - *author, reviewer, reader* <br> 
@@ -54,6 +55,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Frank Rudiger Lopes** - *Author, translator, academic researcher* <br> 
 **Gabriela Ramírez** - *Reader and fan* <br> 
 **Gareth Reeves** - *Author, reviewer, editor* <br> 
+**Gavin Grant** - *Reader* <br> 
 **Hilary Strang** - *reader & teacher of SF* <br> 
 **Holly Lyn Walrath** - *Writer, poet, and managing editor of Interstellar Flight Press* <br> 
 **Ilona Yazhbin Chavasse** - *translator* <br> 
@@ -69,6 +71,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Joachim Boaz** - *Fan writer (SF and Other Suspect Ruminations)* <br> 
 **John Mitchell** - *Author and reader* <br> 
 **John Thompson** - *Publisher, editor (nominated for Shirley Jackson award for Best Anthology, 2024)* <br> 
+**Karla Costa** - *reader* <br> 
 **Kate Dollarhyde** - *author, game designer, former co-Editor-in-Chief of Strange Horizons; Peabody, Nebula, and GLAAD Media award-winner* <br> 
 **Laura Kemmerer** - *Reviewer, reader, and fan* <br> 
 **Lee Sanhwa** - *Author. Four-time runner-up prize winner of Korean SF Award. (Lee is my family name.)* <br> 
@@ -97,6 +100,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Roseanna Pendlebury** - *reviewer, hugo best fan writer nominee, hugo best fanzine winner (with NoaF)* <br> 
 **Roz Milner** - *Reviewer and critic* <br> 
 **Ruth Collard-Stayte** - *author, librarian, slush reader, reader and fan* <br> 
+**Sabrina Mittermeier** - *Autor, Editor, Reviewer* <br> 
 **Sage Ferreira** - *reader and fan* <br> 
 **Sam Reader** - *Critic* <br> 
 **Sander Verdonschot** - *Reader* <br> 
@@ -104,6 +108,8 @@ This page will be updated with the names of folks who support the proposal to ad
 **Seb Doubinsky** - *Author, translator* <br> 
 **Silvia Düssel Schiros** - *Translator* <br> 
 **Sira Maliphol** - *Reader and fan!* <br> 
+**So Mayer** - *author, translation advocate, bookseller, editor of Locus Award Non-Fiction winner Space Crone* <br> 
+**Sofia Soter** - *Translator, author, copyeditor* <br> 
 **Todd Sanders** - *Editor/Publisher/Translator* <br> 
 **Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
