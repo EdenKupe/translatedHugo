@@ -41,6 +41,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **David Farnell** - *Author, editor, reviewer, academic* <br> 
 **Dee Holloway** - *author, reviewer, reader* <br> 
 **Dylan Hasaton** - *literary agent, reviewer* <br> 
+**E.D.E. Bell** - *editor, publisher, and MIPA award-winning author* <br> 
 **Eddy Torres** - *Reader and fan* <br> 
 **Eden Kupermintz** - *Reviewer* <br> 
 **Elias Eells** - *Author and reviewer* <br> 
@@ -54,6 +55,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Gabriela Ramírez** - *Reader and fan* <br> 
 **Gareth Reeves** - *Author, reviewer, editor* <br> 
 **Hilary Strang** - *reader & teacher of SF* <br> 
+**Holly Lyn Walrath** - *Writer, poet, and managing editor of Interstellar Flight Press* <br> 
 **Ilona Yazhbin Chavasse** - *translator* <br> 
 **Jake Casella Brookins** - *Reviewer, editor, podcaster. Hugo & Ignyte finalist.* <br> 
 **Jan Gehrer** - *librarian* <br> 
@@ -104,7 +106,5 @@ This page will be updated with the names of folks who support the proposal to ad
 **Sira Maliphol** - *Reader and fan!* <br> 
 **Todd Sanders** - *Editor/Publisher/Translator* <br> 
 **Will Magill** - *Reader and fan* <br> 
-**Will McMahon** - *Author, Reviewer, Reader* <br> 
-**Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
 **Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
