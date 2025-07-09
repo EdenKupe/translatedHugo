@@ -20,7 +20,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Alena Rivas** - *Publisher's trade awards coordinator, Publicist for scholarly books including current Hugo nominee (Speculative Whiteness)* <br> 
 **Alex Kingsley** - *author, reviewer, reader* <br> 
 **Alex Shvartsman** - *Author, editor, translator; winner of the WSFA Award and a two-time BSFA finalist* <br> 
-**Alex Woodroe** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners,  * <br> 
+**Alex Woodroe** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners* <br> 
 **Alexander Dickow** - *Author, reviewer, translator, fan.* <br> 
 **Alexander Pyles** - *Author, editor, & critic; Forward Indie Award-winner* <br> 
 **Amal El-Mohtar** - *Author, reviewer, have won Hugos & other awards* <br> 
@@ -49,6 +49,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Elias Eells** - *Author and reviewer* <br> 
 **Ellie Campbell** - *Author, reviewer, reader, fan!* <br> 
 **Emily Aguilar** - *reader and fan!* <br> 
+**Emily Miller** - *Publicist; Former Bookseller* <br> 
 **Eric Lane** - *Publisher* <br> 
 **Erica Friedman** - *Author, Editor, Publisher* <br> 
 **Fabius Mayland** - *Former researcher in science fiction studies* <br> 
@@ -57,6 +58,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Gabriela Ramírez** - *Reader and fan* <br> 
 **Gareth Reeves** - *Author, reviewer, editor* <br> 
 **Gavin Grant** - *Reader* <br> 
+**Hache Pueyo** - *Author and translator* <br> 
 **Hilary Strang** - *reader & teacher of SF* <br> 
 **Holly Lyn Walrath** - *Writer, poet, and managing editor of Interstellar Flight Press* <br> 
 **Ilona Yazhbin Chavasse** - *translator* <br> 
@@ -70,6 +72,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Jill Roberts** - *Managing Editor* <br> 
 **JL George** - *Author, reviewer* <br> 
 **Joachim Boaz** - *Fan writer (SF and Other Suspect Ruminations)* <br> 
+**Jocelyne Allen** - *translator* <br> 
 **John Mitchell** - *Author and reader* <br> 
 **John Thompson** - *Publisher, editor (nominated for Shirley Jackson award for Best Anthology, 2024)* <br> 
 **Karla Costa** - *reader* <br> 
