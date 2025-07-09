@@ -11,7 +11,7 @@ tags:
 
 ---
 
-This is a partial and periodically-updated list of recent reviews, podcasts, interviews, and other coverage of or about book-length translated speculative fiction, to demonstrate that global SF **is** being read and discussed! The list also includes some review of non-fiction about translated & global SF, and academic articles about non-Anglophone SF. Note that dates are based on web publication, and may differ from print dates.
+This is a partial and periodically-updated list of recent reviews, podcasts, interviews, and other coverage of or about book-length translated speculative fiction, to demonstrate that global SF **is** being read and discussed! The list also includes some reviews of non-fiction about translated & global SF, and academic articles about non-Anglophone SF. Note that dates are based on web publication, and may differ from print dates.
 
 *Suggest additions to this list using [this form](https://docs.google.com/forms/d/e/1FAIpQLScAzgr45zl41683jZme2vvM_cZOkIHykDDEvUU1zbWBNyC20Q/viewform?usp=header).*
 
