@@ -84,7 +84,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Maria Thereza Dumas Neto** - *Reader and fan!* <br> 
 **Marita Arvaniti** - *Fantasy Academic and scholar, occasional translator.* <br> 
 **Märten Rattasepp** - *author & reviewer & game writer/narrative designer* <br> 
-**Matt Blairstone** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners,  * <br> 
+**Matt Blairstone** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners* <br> 
 **Matthew James Seidel** - *Reviewer* <br> 
 **Megan Cutrofello** - *reviewer, discord mod, book club facilitator* <br> 
 **Melissa Goodyer** - *Amateur student of languages, reader, and fan* <br> 
