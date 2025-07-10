@@ -32,6 +32,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Carmen Marin** - *Cultural Consultant, Reader and Fan* <br> 
 **Cassiel Merricat** - *translator* <br> 
 **Catarina Nabais** - *Reviewer, reader and fan* <br> 
+**Chris M. Barkley** - *2023 Hugo Award Winner (Best Fan Writer), Reporter, Essayist, Reviewer and News Editor for File 770.com* <br> 
 **Christy Hall** - *Reader* <br> 
 **Cynthia Shin** - *reviewer, academic, translator, fan <3* <br> 
 **Cynthia Zhang** - *author, reviewer, scholar* <br> 
@@ -54,6 +55,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Erica Friedman** - *Author, Editor, Publisher* <br> 
 **Fabius Mayland** - *Former researcher in science fiction studies* <br> 
 **Fitz** - *Stargazer* <br> 
+**Francesco Verso** - *Author and Editor of Future Fiction. Winner of 3 Europe Award, 2 Urania Awards, 1 Galaxy Award, 1 Marco Polo Award.* <br> 
 **Frank Rudiger Lopes** - *Author, translator, academic researcher* <br> 
 **Gabriela Ramírez** - *Reader and fan* <br> 
 **Gareth Reeves** - *Author, reviewer, editor* <br> 
@@ -63,9 +65,11 @@ This page will be updated with the names of folks who support the proposal to ad
 **Holly Lyn Walrath** - *Writer, poet, and managing editor of Interstellar Flight Press* <br> 
 **Ilona Yazhbin Chavasse** - *translator* <br> 
 **Jake Casella Brookins** - *Reviewer, editor, podcaster. Hugo & Ignyte finalist.* <br> 
+**James Johnson** - *Editor, part of Hugo-winning team * <br> 
 **Jan Gehrer** - *librarian* <br> 
 **Jared Pechaček** - *Author* <br> 
 **Jared Stern** - *Reader and fan* <br> 
+**Jean-Louis Trudel** - *author,reviewer,translator,reader,fan* <br> 
 **Jennifer R. Donohue** - *author* <br> 
 **Jennifer Rimmer** - *Reader and fan!* <br> 
 **Jeremy Brett** - *Reader, SF&F librarian, reviewer* <br> 
@@ -75,6 +79,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Jocelyne Allen** - *translator* <br> 
 **John Mitchell** - *Author and reader* <br> 
 **John Thompson** - *Publisher, editor (nominated for Shirley Jackson award for Best Anthology, 2024)* <br> 
+**Jordan Sprunger** - *Librarian, Book Blogger* <br> 
 **Karla Costa** - *reader* <br> 
 **Kate Dollarhyde** - *author, game designer, former co-Editor-in-Chief of Strange Horizons; Peabody, Nebula, and GLAAD Media award-winner* <br> 
 **Laura Kemmerer** - *Reviewer, reader, and fan* <br> 
@@ -85,10 +90,12 @@ This page will be updated with the names of folks who support the proposal to ad
 **Marita Arvaniti** - *Fantasy Academic and scholar, occasional translator.* <br> 
 **Märten Rattasepp** - *author & reviewer & game writer/narrative designer* <br> 
 **Matt Blairstone** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners* <br> 
+**Matthew Eatough** - *College professor and freelance reviewer* <br> 
 **Matthew James Seidel** - *Reviewer* <br> 
 **Megan Cutrofello** - *reviewer, discord mod, book club facilitator* <br> 
 **Melissa Goodyer** - *Amateur student of languages, reader, and fan* <br> 
 **Meredith Howard** - *Promotions Director, Columbia University Press, book publisher* <br> 
+**Michael Burianyk** - *reader and fan* <br> 
 **Michael Kelly** - *Publisher, editor. Winner of the World Fantasy, Shirley Jackson, and British Fantasy Awards* <br> 
 **Michael Manzer** - *Reader* <br> 
 **Michael Uhall** - *author, reviewer, translator* <br> 
@@ -115,6 +122,8 @@ This page will be updated with the names of folks who support the proposal to ad
 **Sira Maliphol** - *Reader and fan!* <br> 
 **So Mayer** - *author, translation advocate, bookseller, editor of Locus Award Non-Fiction winner Space Crone* <br> 
 **Sofia Soter** - *Translator, author, copyeditor* <br> 
+**Sue Burke** - *Author, translator, winner of ATA Alicia Gordon Award for Word Artistry in Translation* <br> 
+**Suzanna Tamminen** - *Director and editor in chief at Wesleyan University Press* <br> 
 **Todd Sanders** - *Editor/Publisher/Translator* <br> 
 **Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
