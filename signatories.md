@@ -65,7 +65,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Holly Lyn Walrath** - *Writer, poet, and managing editor of Interstellar Flight Press* <br> 
 **Ilona Yazhbin Chavasse** - *translator* <br> 
 **Jake Casella Brookins** - *Reviewer, editor, podcaster. Hugo & Ignyte finalist.* <br> 
-**James Johnson** - *Editor, part of Hugo-winning team * <br> 
+**James Johnson** - *Editor, part of Hugo-winning team* <br> 
 **Jan Gehrer** - *librarian* <br> 
 **Jared Pechaček** - *Author* <br> 
 **Jared Stern** - *Reader and fan* <br> 
