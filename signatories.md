@@ -47,6 +47,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **E.D.E. Bell** - *editor, publisher, and MIPA award-winning author* <br> 
 **Eddy Torres** - *Reader and fan* <br> 
 **Eden Kupermintz** - *Reviewer* <br> 
+**Eleanor McAdam** - *Writer, PhD student, Reader* <br> 
 **Elias Eells** - *Author and reviewer* <br> 
 **Ellie Campbell** - *Author, reviewer, reader, fan!* <br> 
 **Emily Aguilar** - *reader and fan!* <br> 
@@ -70,6 +71,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Jared Pechaček** - *Author* <br> 
 **Jared Stern** - *Reader and fan* <br> 
 **Jean-Louis Trudel** - *author,reviewer,translator,reader,fan* <br> 
+**Jean-Paul L. Garnier** - *Publisher, bookseller, editor, author. Space Cowboy Books publications have won the Stoker Award, the Elgin Award, the Laureate Award and the Next Generation Indie Book Award* <br> 
 **Jennifer R. Donohue** - *author* <br> 
 **Jennifer Rimmer** - *Reader and fan!* <br> 
 **Jeremy Brett** - *Reader, SF&F librarian, reviewer* <br> 
@@ -116,6 +118,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Sage Ferreira** - *reader and fan* <br> 
 **Sam Reader** - *Critic* <br> 
 **Sander Verdonschot** - *Reader* <br> 
+**Sarah Bonamino** - *Publicist & SFF Reader* <br> 
 **Sean Guynes** - *Critic and editor* <br> 
 **Seb Doubinsky** - *Author, translator* <br> 
 **Silvia Düssel Schiros** - *Translator* <br> 
@@ -123,8 +126,10 @@ This page will be updated with the names of folks who support the proposal to ad
 **So Mayer** - *author, translation advocate, bookseller, editor of Locus Award Non-Fiction winner Space Crone* <br> 
 **Sofia Soter** - *Translator, author, copyeditor* <br> 
 **Sue Burke** - *Author, translator, winner of ATA Alicia Gordon Award for Word Artistry in Translation* <br> 
+**Susan Buckley** - *Acquisitions Editor at the MIT Press* <br> 
 **Suzanna Tamminen** - *Director and editor in chief at Wesleyan University Press* <br> 
 **Todd Sanders** - *Editor/Publisher/Translator* <br> 
+**Vajra Chandrasekera** - *Writer. Nebula, Ignyte, Otherwise Award winner; Le Guin, Lammy, Hugo finalist.* <br> 
 **Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
 **Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
