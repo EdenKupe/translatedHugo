@@ -111,6 +111,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Rachel Cordasco** - *author, editor, reviewer, translator* <br> 
 **Ramsey Kanaan** - *Publisher, PM Press* <br> 
 **Rebecca Fraimow** - *author and reviewer, Hugo and Locus award finalist* <br> 
+**rené-marc dolhen** - *reviewer, french fan, webmaster of noosfere.org* <br> 
 **Ricardo** - *Reader and fan!* <br> 
 **Robert Kiely** - *Author, editor, reviewer* <br> 
 **Roseanna Pendlebury** - *reviewer, hugo best fan writer nominee, hugo best fanzine winner (with NoaF)* <br> 
