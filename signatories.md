@@ -48,6 +48,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Eddy Torres** - *Reader and fan* <br> 
 **Eden Kupermintz** - *Reviewer* <br> 
 **Eleanor McAdam** - *Writer, PhD student, Reader* <br> 
+**Electra Pritchett** - *Critic, reader, and fan* <br> 
 **Elias Eells** - *Author and reviewer* <br> 
 **Ellie Campbell** - *Author, reviewer, reader, fan!* <br> 
 **Emily Aguilar** - *reader and fan!* <br> 
@@ -104,6 +105,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Michelle Dotter** - *Publisher* <br> 
 **Misha Grifka Wander** - *Hugo and Ignyte Finalist, SFWA Staff Member, PhD, Editor* <br> 
 **Nadia A. King** - *Writer* <br> 
+**Nina Shepardson** - *Reader, author, Hugo voter* <br> 
 **O F Cieri** - *Author* <br> 
 **Rachel Brown** - *Reader and fan!* <br> 
 **Rachel Cordasco** - *author, editor, reviewer, translator* <br> 
