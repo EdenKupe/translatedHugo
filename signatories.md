@@ -83,6 +83,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **John Mitchell** - *Author and reader* <br> 
 **John Thompson** - *Publisher, editor (nominated for Shirley Jackson award for Best Anthology, 2024)* <br> 
 **Jordan Sprunger** - *Librarian, Book Blogger* <br> 
+**Juan Martinez** - *Author and reader and fan* <br> 
 **Karla Costa** - *reader* <br> 
 **Kate Dollarhyde** - *author, game designer, former co-Editor-in-Chief of Strange Horizons; Peabody, Nebula, and GLAAD Media award-winner* <br> 
 **Laura Kemmerer** - *Reviewer, reader, and fan* <br> 
