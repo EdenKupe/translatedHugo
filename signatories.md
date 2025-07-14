@@ -26,6 +26,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Amal El-Mohtar** - *Author, reviewer, have won Hugos & other awards* <br> 
 **Amber** - *Reviewer* <br> 
 **andré carrington** - *Critic, past finalist for Locus Award* <br> 
+**Andrew Whitney** - *reader and fan!* <br> 
 **Andy Pressman** - *Cover designer* <br> 
 **Arkady Martine** - *author, Hugo winner (translator of academic things, also)* <br> 
 **Ben Ghan** - *Author, Critic, Reader* <br> 
@@ -54,6 +55,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Emily Aguilar** - *reader and fan!* <br> 
 **Emily Miller** - *Publicist; Former Bookseller* <br> 
 **Eric Lane** - *Publisher* <br> 
+**Eric Lundgren** - *Author and publishing employee* <br> 
 **Erica Friedman** - *Author, Editor, Publisher* <br> 
 **Fabius Mayland** - *Former researcher in science fiction studies* <br> 
 **Fitz** - *Stargazer* <br> 
