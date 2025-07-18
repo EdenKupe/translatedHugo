@@ -28,6 +28,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **andré carrington** - *Critic, past finalist for Locus Award* <br> 
 **Andrew Whitney** - *reader and fan!* <br> 
 **Andy Pressman** - *Cover designer* <br> 
+**Archita Mittra** - *author, reviewer, editor, 2x Ignyte-nominated critic, reader and fan* <br> 
 **Arkady Martine** - *author, Hugo winner (translator of academic things, also)* <br> 
 **Ben Ghan** - *Author, Critic, Reader* <br> 
 **Carmen Marin** - *Cultural Consultant, Reader and Fan* <br> 
@@ -71,6 +72,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Jake Casella Brookins** - *Reviewer, editor, podcaster. Hugo & Ignyte finalist.* <br> 
 **James Johnson** - *Editor, part of Hugo-winning team* <br> 
 **Jan Gehrer** - *librarian* <br> 
+**Jana Bianchi** - *Author, editor, translator. Winner of the BSFA Award for Best Translated Short Fiction from 2023.* <br> 
 **Jared Pechaček** - *Author* <br> 
 **Jared Stern** - *Reader and fan* <br> 
 **Jean-Louis Trudel** - *author,reviewer,translator,reader,fan* <br> 
@@ -88,6 +90,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Juan Martinez** - *Author and reader and fan* <br> 
 **Karla Costa** - *reader* <br> 
 **Kate Dollarhyde** - *author, game designer, former co-Editor-in-Chief of Strange Horizons; Peabody, Nebula, and GLAAD Media award-winner* <br> 
+**Kerry Taylor** - *Marketing & Publicity Coordinator at Levine Querido* <br> 
 **Laura Kemmerer** - *Reviewer, reader, and fan* <br> 
 **Lee Sanhwa** - *Author. Four-time runner-up prize winner of Korean SF Award. (Lee is my family name.)* <br> 
 **Leigha McReynolds** - *reviewer, teacher, panelist, reader, and fan!* <br> 
@@ -110,10 +113,12 @@ This page will be updated with the names of folks who support the proposal to ad
 **Nadia A. King** - *Writer* <br> 
 **Nina Shepardson** - *Reader, author, Hugo voter* <br> 
 **O F Cieri** - *Author* <br> 
+**Peter Watts** - *author* <br> 
 **Rachel Brown** - *Reader and fan!* <br> 
 **Rachel Cordasco** - *author, editor, reviewer, translator* <br> 
 **Ramsey Kanaan** - *Publisher, PM Press* <br> 
 **Rebecca Fraimow** - *author and reviewer, Hugo and Locus award finalist* <br> 
+**Renan Bernardo** - *Nebula and Ignyte finalist Author* <br> 
 **rené-marc dolhen** - *reviewer, french fan, webmaster of noosfere.org* <br> 
 **Ricardo** - *Reader and fan!* <br> 
 **Robert Kiely** - *Author, editor, reviewer* <br> 
@@ -127,6 +132,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Sarah Bonamino** - *Publicist & SFF Reader* <br> 
 **Sean Guynes** - *Critic and editor* <br> 
 **Seb Doubinsky** - *Author, translator* <br> 
+**Seth Heasley** - *podcaster, three-time Hugo finalist for Best Fancast* <br> 
 **Silvia Düssel Schiros** - *Translator* <br> 
 **Sira Maliphol** - *Reader and fan!* <br> 
 **So Mayer** - *author, translation advocate, bookseller, editor of Locus Award Non-Fiction winner Space Crone* <br> 
@@ -139,3 +145,4 @@ This page will be updated with the names of folks who support the proposal to ad
 **Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
 **Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
+
