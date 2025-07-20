@@ -13,6 +13,7 @@ tags:
 This page will be updated with the names of folks who support the proposal to add a Hugo for translated speculative fiction. If you like the idea, please [**sign using this form**](https://docs.google.com/forms/d/e/1FAIpQLSfzKqYPE3rrvZm0Y8KPEKCNFsXs8j1Sn9qHu48yM-0LWZe5yw/viewform?usp=header), and share widely!
 
 ---
+**A. W. Prihandita** - *Author, Nebula Award winner, Ignyte and Eugie Awards finalist* <br> 
 **Abby Dover** - *librarian and reader* <br> 
 **Agnes Kormendi** - *translator* <br> 
 **Agnès Renié** - *reader and fan* <br> 
@@ -52,6 +53,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Eleanor McAdam** - *Writer, PhD student, Reader* <br> 
 **Electra Pritchett** - *Critic, reader, and fan* <br> 
 **Elias Eells** - *Author and reviewer* <br> 
+**Elisabeth Moore** - *author, reader and fan* <br> 
 **Ellie Campbell** - *Author, reviewer, reader, fan!* <br> 
 **Emily Aguilar** - *reader and fan!* <br> 
 **Emily Miller** - *Publicist; Former Bookseller* <br> 
@@ -113,6 +115,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Nadia A. King** - *Writer* <br> 
 **Nina Shepardson** - *Reader, author, Hugo voter* <br> 
 **O F Cieri** - *Author* <br> 
+**Paul Weimer** - *reviewer* <br> 
 **Peter Watts** - *author* <br> 
 **Rachel Brown** - *Reader and fan!* <br> 
 **Rachel Cordasco** - *author, editor, reviewer, translator* <br> 
@@ -131,7 +134,9 @@ This page will be updated with the names of folks who support the proposal to ad
 **Sander Verdonschot** - *Reader* <br> 
 **Sarah Bonamino** - *Publicist & SFF Reader* <br> 
 **Sean Guynes** - *Critic and editor* <br> 
+**Sean McTiernan** - *Critic and podcaster, host of SFULTRA* <br> 
 **Seb Doubinsky** - *Author, translator* <br> 
+**Seoung Kim** - *writer and librarian* <br> 
 **Seth Heasley** - *podcaster, three-time Hugo finalist for Best Fancast* <br> 
 **Silvia Düssel Schiros** - *Translator* <br> 
 **Sira Maliphol** - *Reader and fan!* <br> 
@@ -144,5 +149,6 @@ This page will be updated with the names of folks who support the proposal to ad
 **Vajra Chandrasekera** - *Writer. Nebula, Ignyte, Otherwise Award winner; Le Guin, Lammy, Hugo finalist.* <br> 
 **Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
-**Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
+**Wm Henry Morris** - *author and critic* <br> 
+**Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br>  
 
