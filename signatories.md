@@ -64,6 +64,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Fitz** - *Stargazer* <br> 
 **Francesco Verso** - *Author and Editor of Future Fiction. Winner of 3 Europe Award, 2 Urania Awards, 1 Galaxy Award, 1 Marco Polo Award.* <br> 
 **Frank Rudiger Lopes** - *Author, translator, academic researcher* <br> 
+**Frauke Uhlenbruch** - *author, editor, translator, fan* <br> 
 **Gabriela Ramírez** - *Reader and fan* <br> 
 **Gareth Reeves** - *Author, reviewer, editor* <br> 
 **Gavin Grant** - *Reader* <br> 
@@ -71,6 +72,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Hilary Strang** - *reader & teacher of SF* <br> 
 **Holly Lyn Walrath** - *Writer, poet, and managing editor of Interstellar Flight Press* <br> 
 **Ilona Yazhbin Chavasse** - *translator* <br> 
+**J.W. Wartick** - *reviewer* <br> 
 **Jake Casella Brookins** - *Reviewer, editor, podcaster. Hugo & Ignyte finalist.* <br> 
 **James Johnson** - *Editor, part of Hugo-winning team* <br> 
 **Jan Gehrer** - *librarian* <br> 
@@ -86,6 +88,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **JL George** - *Author, reviewer* <br> 
 **Joachim Boaz** - *Fan writer (SF and Other Suspect Ruminations)* <br> 
 **Jocelyne Allen** - *translator* <br> 
+**John Borland** - *Writer, translator, reader* <br> 
 **John Mitchell** - *Author and reader* <br> 
 **John Thompson** - *Publisher, editor (nominated for Shirley Jackson award for Best Anthology, 2024)* <br> 
 **Jordan Sprunger** - *Librarian, Book Blogger* <br> 
@@ -114,6 +117,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Misha Grifka Wander** - *Hugo and Ignyte Finalist, SFWA Staff Member, PhD, Editor* <br> 
 **Nadia A. King** - *Writer* <br> 
 **Nina Shepardson** - *Reader, author, Hugo voter* <br> 
+**Noah Springer** - *Acquisitions Editor for the Radium Age Series at the MIT Press. Our book The Inhumans and Other Stories, translated by Bodhisattva Chattopadhyay is a finalist for the 2025 Locus Award for an anthology.* <br> 
 **O F Cieri** - *Author* <br> 
 **Paul Weimer** - *reviewer* <br> 
 **Peter Watts** - *author* <br> 
@@ -150,5 +154,5 @@ This page will be updated with the names of folks who support the proposal to ad
 **Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
 **Wm Henry Morris** - *author and critic* <br> 
-**Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br>  
+**Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
 
