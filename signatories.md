@@ -79,6 +79,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Jana Bianchi** - *Author, editor, translator. Winner of the BSFA Award for Best Translated Short Fiction from 2023.* <br> 
 **Jared Pechaček** - *Author* <br> 
 **Jared Stern** - *Reader and fan* <br> 
+**Jay Aja** - *Editor* <br> 
 **Jean-Louis Trudel** - *author,reviewer,translator,reader,fan* <br> 
 **Jean-Paul L. Garnier** - *Publisher, bookseller, editor, author. Space Cowboy Books publications have won the Stoker Award, the Elgin Award, the Laureate Award and the Next Generation Indie Book Award* <br> 
 **Jennifer R. Donohue** - *author* <br> 
