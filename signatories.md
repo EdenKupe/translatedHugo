@@ -29,9 +29,12 @@ This page will be updated with the names of folks who support the proposal to ad
 **andré carrington** - *Critic, past finalist for Locus Award* <br> 
 **Andrew Whitney** - *reader and fan!* <br> 
 **Andy Pressman** - *Cover designer* <br> 
+**Anindita Banerjee** - *Editorial adviser, reviewer* <br> 
+**Annie Nocenti** - *writer / editor (Eisner Hall of Fame, Ink Pot)* <br> 
 **Archita Mittra** - *author, reviewer, editor, 2x Ignyte-nominated critic, reader and fan* <br> 
 **Arkady Martine** - *author, Hugo winner (translator of academic things, also)* <br> 
 **Ben Ghan** - *Author, Critic, Reader* <br> 
+**Bodhisattva Chattopadhyay** - *Author, editor, reviewer, translator* <br> 
 **Carmen Marin** - *Cultural Consultant, Reader and Fan* <br> 
 **Cassiel Merricat** - *translator* <br> 
 **Catarina Nabais** - *Reviewer, reader and fan* <br> 
@@ -93,6 +96,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **John Mitchell** - *Author and reader* <br> 
 **John Thompson** - *Publisher, editor (nominated for Shirley Jackson award for Best Anthology, 2024)* <br> 
 **Jordan Sprunger** - *Librarian, Book Blogger* <br> 
+**Joshua Glenn** - *Editor of the MIT Press's RADIUM AGE proto-sf series.* <br> 
 **Juan Martinez** - *Author and reader and fan* <br> 
 **Karla Costa** - *reader* <br> 
 **Kate Dollarhyde** - *author, game designer, former co-Editor-in-Chief of Strange Horizons; Peabody, Nebula, and GLAAD Media award-winner* <br> 
@@ -120,6 +124,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Nina Shepardson** - *Reader, author, Hugo voter* <br> 
 **Noah Springer** - *Acquisitions Editor for the Radium Age Series at the MIT Press. Our book The Inhumans and Other Stories, translated by Bodhisattva Chattopadhyay is a finalist for the 2025 Locus Award for an anthology.* <br> 
 **O F Cieri** - *Author* <br> 
+**Paul March-Russell** - *Editor* <br> 
 **Paul Weimer** - *reviewer* <br> 
 **Peter Watts** - *author* <br> 
 **Rachel Brown** - *Reader and fan!* <br> 
@@ -156,4 +161,3 @@ This page will be updated with the names of folks who support the proposal to ad
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
 **Wm Henry Morris** - *author and critic* <br> 
 **Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
-
