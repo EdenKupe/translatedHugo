@@ -105,6 +105,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Laura Kemmerer** - *Reviewer, reader, and fan* <br> 
 **Lee Sanhwa** - *Author. Four-time runner-up prize winner of Korean SF Award. (Lee is my family name.)* <br> 
 **Leigha McReynolds** - *reviewer, teacher, panelist, reader, and fan!* <br> 
+**Liliana Colanzi ** - *Author, winner of the Zinklar Prize for short story writers (Denmark, 2025). Shortlisted for the British Science Fiction Association Award in the Best Translated Short Fiction category for “You Glow in the Dark,” translated by Chris Andrews, 2025. Winner of the Ribera del Duero Prize for Ustedes brillan en lo oscuro, Spain, 2022.* <br> 
 **Margaryta Golovchenko** - *reviewer* <br> 
 **Maria Thereza Dumas Neto** - *Reader and fan!* <br> 
 **Marita Arvaniti** - *Fantasy Academic and scholar, occasional translator.* <br> 
