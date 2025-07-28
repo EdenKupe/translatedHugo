@@ -30,6 +30,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Andrew Whitney** - *reader and fan!* <br> 
 **Andy Pressman** - *Cover designer* <br> 
 **Anindita Banerjee** - *Editorial adviser, reviewer* <br> 
+**Annalee Newitz** - *author, winner of 3 Hugo Awards for fancast* <br> 
 **Annie Nocenti** - *writer / editor (Eisner Hall of Fame, Ink Pot)* <br> 
 **Archita Mittra** - *author, reviewer, editor, 2x Ignyte-nominated critic, reader and fan* <br> 
 **Arkady Martine** - *author, Hugo winner (translator of academic things, also)* <br> 
