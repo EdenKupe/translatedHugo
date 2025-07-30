@@ -37,6 +37,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Ben Ghan** - *Author, Critic, Reader* <br> 
 **Bodhisattva Chattopadhyay** - *Author, editor, reviewer, translator* <br> 
 **Carmen Marin** - *Cultural Consultant, Reader and Fan* <br> 
+**Caroline Hung** - *author, nominee for a 2024 Shirley Jackson Award in short fiction* <br> 
 **Cassiel Merricat** - *translator* <br> 
 **Catarina Nabais** - *Reviewer, reader and fan* <br> 
 **Chris M. Barkley** - *2023 Hugo Award Winner (Best Fan Writer), Reporter, Essayist, Reviewer and News Editor for File 770.com* <br> 
@@ -99,6 +100,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Jordan Sprunger** - *Librarian, Book Blogger* <br> 
 **Joshua Glenn** - *Editor of the MIT Press's RADIUM AGE proto-sf series.* <br> 
 **Juan Martinez** - *Author and reader and fan* <br> 
+**Karen chien** - *Author* <br> 
 **Karla Costa** - *reader* <br> 
 **Kate Dollarhyde** - *author, game designer, former co-Editor-in-Chief of Strange Horizons; Peabody, Nebula, and GLAAD Media award-winner* <br> 
 **Kerry Taylor** - *Marketing & Publicity Coordinator at Levine Querido* <br> 
@@ -106,6 +108,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Lee Sanhwa** - *Author. Four-time runner-up prize winner of Korean SF Award. (Lee is my family name.)* <br> 
 **Leigha McReynolds** - *reviewer, teacher, panelist, reader, and fan!* <br> 
 **Liliana Colanzi** - *Author, winner of the Zinklar Prize for short story writers (Denmark, 2025). Shortlisted for the British Science Fiction Association Award in the Best Translated Short Fiction category for “You Glow in the Dark,” translated by Chris Andrews, 2025. Winner of the Ribera del Duero Prize for Ustedes brillan en lo oscuro, Spain, 2022.* <br> 
+**Lisa Yaszek** - *Scholar, author, editor; Locus finalist, CHOICE outstanding author* <br> 
 **Margaryta Golovchenko** - *reviewer* <br> 
 **Maria Thereza Dumas Neto** - *Reader and fan!* <br> 
 **Marita Arvaniti** - *Fantasy Academic and scholar, occasional translator.* <br> 
@@ -144,6 +147,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Sage Ferreira** - *reader and fan* <br> 
 **Sam Reader** - *Critic* <br> 
 **Sander Verdonschot** - *Reader* <br> 
+**Sara S. Messenger** - *Author, Nebula Award Winner, Ignyte and Hugo Finalist* <br> 
 **Sarah Bonamino** - *Publicist & SFF Reader* <br> 
 **Sean Guynes** - *Critic and editor* <br> 
 **Sean McTiernan** - *Critic and podcaster, host of SFULTRA* <br> 
