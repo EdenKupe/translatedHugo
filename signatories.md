@@ -48,6 +48,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Daniel Shank Cruz** - *author, reviewer, reader* <br> 
 **Dante Luiz** - *Translator, artist, occasional author. Ignyte winner (nonfiction), Hugo finalist (Fan Artist).* <br> 
 **Dave Agnew** - *Reader and fan (and sometime author and editor)* <br> 
+**dave ring** - *Author/Editor/Publisher* <br> 
 **David Farnell** - *Author, editor, reviewer, academic* <br> 
 **Dee Holloway** - *author, reviewer, reader* <br> 
 **Dylan Hasaton** - *literary agent, reviewer* <br> 
@@ -126,6 +127,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Michelle Dotter** - *Publisher* <br> 
 **Misha Grifka Wander** - *Hugo and Ignyte Finalist, SFWA Staff Member, PhD, Editor* <br> 
 **Nadia A. King** - *Writer* <br> 
+**Navi** - *Reader and fan!* <br> 
 **Nina Shepardson** - *Reader, author, Hugo voter* <br> 
 **Noah Springer** - *Acquisitions Editor for the Radium Age Series at the MIT Press. Our book The Inhumans and Other Stories, translated by Bodhisattva Chattopadhyay is a finalist for the 2025 Locus Award for an anthology.* <br> 
 **O F Cieri** - *Author* <br> 
