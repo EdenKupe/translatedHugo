@@ -74,6 +74,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Gabriela Ramírez** - *Reader and fan* <br> 
 **Gareth Reeves** - *Author, reviewer, editor* <br> 
 **Gavin Grant** - *Reader* <br> 
+**Grace Chan** - *Author* <br> 
 **Hache Pueyo** - *Author and translator* <br> 
 **Hilary Strang** - *reader & teacher of SF* <br> 
 **Holly Lyn Walrath** - *Writer, poet, and managing editor of Interstellar Flight Press* <br> 
