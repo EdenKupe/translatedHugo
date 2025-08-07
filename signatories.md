@@ -142,6 +142,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Renan Bernardo** - *Nebula and Ignyte finalist Author* <br> 
 **rené-marc dolhen** - *reviewer, french fan, webmaster of noosfere.org* <br> 
 **Ricardo** - *Reader and fan!* <br> 
+**RJ Taylor** - *writer* <br> 
 **Robert Kiely** - *Author, editor, reviewer* <br> 
 **Roseanna Pendlebury** - *reviewer, hugo best fan writer nominee, hugo best fanzine winner (with NoaF)* <br> 
 **Roz Milner** - *Reviewer and critic* <br> 
