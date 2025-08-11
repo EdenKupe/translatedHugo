@@ -34,6 +34,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Annie Nocenti** - *writer / editor (Eisner Hall of Fame, Ink Pot)* <br> 
 **Archita Mittra** - *author, reviewer, editor, 2x Ignyte-nominated critic, reader and fan* <br> 
 **Arkady Martine** - *author, Hugo winner (translator of academic things, also)* <br> 
+**Arturo Serrano** - *author, reviewer, winner of Ignyte and Hugo* <br> 
 **Ben Ghan** - *Author, Critic, Reader* <br> 
 **Bodhisattva Chattopadhyay** - *Author, editor, reviewer, translator* <br> 
 **Carmen Marin** - *Cultural Consultant, Reader and Fan* <br> 
