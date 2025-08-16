@@ -27,9 +27,11 @@ This page will be updated with the names of folks who support the proposal to ad
 **Amal El-Mohtar** - *Author, reviewer, have won Hugos & other awards* <br> 
 **Amber** - *Reviewer* <br> 
 **andré carrington** - *Critic, past finalist for Locus Award* <br> 
+**Andrea Chapela** - *Author (fron México)* <br> 
 **Andrew Whitney** - *reader and fan!* <br> 
 **Andy Pressman** - *Cover designer* <br> 
 **Anindita Banerjee** - *Editorial adviser, reviewer* <br> 
+**Anna Wojda** - *librarian for a foreign languages library, a fan* <br> 
 **Annalee Newitz** - *author, winner of 3 Hugo Awards for fancast* <br> 
 **Annie Nocenti** - *writer / editor (Eisner Hall of Fame, Ink Pot)* <br> 
 **Archita Mittra** - *author, reviewer, editor, 2x Ignyte-nominated critic, reader and fan* <br> 
@@ -111,7 +113,9 @@ This page will be updated with the names of folks who support the proposal to ad
 **Lee Sanhwa** - *Author. Four-time runner-up prize winner of Korean SF Award. (Lee is my family name.)* <br> 
 **Leigha McReynolds** - *reviewer, teacher, panelist, reader, and fan!* <br> 
 **Liliana Colanzi** - *Author, winner of the Zinklar Prize for short story writers (Denmark, 2025). Shortlisted for the British Science Fiction Association Award in the Best Translated Short Fiction category for “You Glow in the Dark,” translated by Chris Andrews, 2025. Winner of the Ribera del Duero Prize for Ustedes brillan en lo oscuro, Spain, 2022.* <br> 
+**Lilith Acadia** - *literature professor, author* <br> 
 **Lisa Yaszek** - *Scholar, author, editor; Locus finalist, CHOICE outstanding author* <br> 
+**Mallory Craig-Kuhn** - *Author & translator* <br> 
 **Margaryta Golovchenko** - *reviewer* <br> 
 **Maria Thereza Dumas Neto** - *Reader and fan!* <br> 
 **Marita Arvaniti** - *Fantasy Academic and scholar, occasional translator.* <br> 
@@ -128,6 +132,8 @@ This page will be updated with the names of folks who support the proposal to ad
 **Michael Uhall** - *author, reviewer, translator* <br> 
 **Michelle Dotter** - *Publisher* <br> 
 **Misha Grifka Wander** - *Hugo and Ignyte Finalist, SFWA Staff Member, PhD, Editor* <br> 
+**Monique Cuillerier** - *author* <br> 
+**Mordecai Martin** - *Translator, writer, reader* <br> 
 **Nadia A. King** - *Writer* <br> 
 **Navi** - *Reader and fan!* <br> 
 **Nina Shepardson** - *Reader, author, Hugo voter* <br> 
@@ -135,6 +141,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **O F Cieri** - *Author* <br> 
 **Paul March-Russell** - *Editor* <br> 
 **Paul Weimer** - *reviewer* <br> 
+**Pedro Ponce** - *Author and reviewer* <br> 
 **Peter Watts** - *author* <br> 
 **Rachel Brown** - *Reader and fan!* <br> 
 **Rachel Cordasco** - *author, editor, reviewer, translator* <br> 
@@ -159,16 +166,21 @@ This page will be updated with the names of folks who support the proposal to ad
 **Seb Doubinsky** - *Author, translator* <br> 
 **Seoung Kim** - *writer and librarian* <br> 
 **Seth Heasley** - *podcaster, three-time Hugo finalist for Best Fancast* <br> 
+**Shiv Ramdas** - *Author, have been a finalist for the Hugo, Nebula and Ignyte Awards * <br> 
 **Silvia Düssel Schiros** - *Translator* <br> 
+**Silvia Park** - *Author* <br> 
 **Sira Maliphol** - *Reader and fan!* <br> 
 **So Mayer** - *author, translation advocate, bookseller, editor of Locus Award Non-Fiction winner Space Crone* <br> 
 **Sofia Soter** - *Translator, author, copyeditor* <br> 
+**Soila Kenya** - *Reader and fan, Reviewer* <br> 
 **Sue Burke** - *Author, translator, winner of ATA Alicia Gordon Award for Word Artistry in Translation* <br> 
 **Susan Buckley** - *Acquisitions Editor at the MIT Press* <br> 
 **Suzanna Tamminen** - *Director and editor in chief at Wesleyan University Press* <br> 
 **Todd Sanders** - *Editor/Publisher/Translator* <br> 
 **Vajra Chandrasekera** - *Writer. Nebula, Ignyte, Otherwise Award winner; Le Guin, Lammy, Hugo finalist.* <br> 
+**Victor Manibo** - *Author* <br> 
 **Will Magill** - *Reader and fan* <br> 
 **Will McMahon** - *Author, Reviewer, Reader* <br> 
 **Wm Henry Morris** - *author and critic* <br> 
 **Wole Talabi** - *Author, Editor, Reviewer (Hugo, WFA, Nebula, BSFA, Locus & Ignyte awards finalist)* <br> 
+**Yilin Wang** - *Author, Literary Translator, Editor, Winner of Dwarf Stars Award (for a translated poem), Aurora Award Finalist* <br> 
