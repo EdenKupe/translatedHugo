@@ -14,11 +14,15 @@ This page will be updated with the names of folks who support the proposal to ad
 
 ---
 **A. W. Prihandita** - *Author, Nebula Award winner, Ignyte and Eugie Awards finalist* <br> 
+**Aaron Bray** - *Translator* <br> 
 **Abby Dover** - *librarian and reader* <br> 
+**Ada Palmer** - *Author. Hugo finalist, Astounding Award winner* <br> 
 **Agnes Kormendi** - *translator* <br> 
 **Agnès Renié** - *reader and fan* <br> 
 **Aileen** - *Reader and Hugo Voter* <br> 
+**Alan** - *Reviewer* <br> 
 **Alena Rivas** - *Publisher's trade awards coordinator, Publicist for scholarly books including current Hugo nominee (Speculative Whiteness)* <br> 
+**Alex Kamachi** - *Reader and fan* <br> 
 **Alex Kingsley** - *author, reviewer, reader* <br> 
 **Alex Shvartsman** - *Author, editor, translator; winner of the WSFA Award and a two-time BSFA finalist* <br> 
 **Alex Woodroe** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners* <br> 
@@ -30,6 +34,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Andrea Chapela** - *Author (fron México)* <br> 
 **Andrew Whitney** - *reader and fan!* <br> 
 **Andy Pressman** - *Cover designer* <br> 
+**Angela Liu** - *Author and Finalist for Nebula, Hugo, Locus, Rhysling, and Astounding Award* <br> 
 **Anindita Banerjee** - *Editorial adviser, reviewer* <br> 
 **Anna Wojda** - *librarian for a foreign languages library, a fan* <br> 
 **Annalee Newitz** - *author, winner of 3 Hugo Awards for fancast* <br> 
@@ -45,6 +50,8 @@ This page will be updated with the names of folks who support the proposal to ad
 **Catarina Nabais** - *Reviewer, reader and fan* <br> 
 **Chris M. Barkley** - *2023 Hugo Award Winner (Best Fan Writer), Reporter, Essayist, Reviewer and News Editor for File 770.com* <br> 
 **Christy Hall** - *Reader* <br> 
+**Crystal Blodgett** - *Reader and 3rd generation fan if you count Oz* <br> 
+**Cynthia Handford** - *Reader, fan, Hugo voter* <br> 
 **Cynthia Shin** - *reviewer, academic, translator, fan <3* <br> 
 **Cynthia Zhang** - *author, reviewer, scholar* <br> 
 **Daniel A. Rabuzzi** - *Reader first and foremost, also an author, editor, reviewer and translator.* <br> 
@@ -57,8 +64,10 @@ This page will be updated with the names of folks who support the proposal to ad
 **Dylan Hasaton** - *literary agent, reviewer* <br> 
 **Dylan McGonigle** - *bookseller* <br> 
 **E.D.E. Bell** - *editor, publisher, and MIPA award-winning author* <br> 
+**E.G. Condé** - *Author* <br> 
 **Eddy Torres** - *Reader and fan* <br> 
 **Eden Kupermintz** - *Reviewer* <br> 
+**Ekaterina Sedia** - *Author, translator; former editor * <br> 
 **Eleanor McAdam** - *Writer, PhD student, Reader* <br> 
 **Electra Pritchett** - *Critic, reader, and fan* <br> 
 **Elias Eells** - *Author and reviewer* <br> 
@@ -66,6 +75,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Ellie Campbell** - *Author, reviewer, reader, fan!* <br> 
 **Emily Aguilar** - *reader and fan!* <br> 
 **Emily Miller** - *Publicist; Former Bookseller* <br> 
+**Eric de Roulet** - *reviewer; emerging author* <br> 
 **Eric Lane** - *Publisher* <br> 
 **Eric Lundgren** - *Author and publishing employee* <br> 
 **Erica Friedman** - *Author, Editor, Publisher* <br> 
@@ -108,13 +118,17 @@ This page will be updated with the names of folks who support the proposal to ad
 **Karen chien** - *Author* <br> 
 **Karla Costa** - *reader* <br> 
 **Kate Dollarhyde** - *author, game designer, former co-Editor-in-Chief of Strange Horizons; Peabody, Nebula, and GLAAD Media award-winner* <br> 
+**Kate Elliott** - *author* <br> 
+**Kendra Preston Leonard** - *author, editor, reviewer* <br> 
 **Kerry Taylor** - *Marketing & Publicity Coordinator at Levine Querido* <br> 
 **Laura Kemmerer** - *Reviewer, reader, and fan* <br> 
 **Lee Sanhwa** - *Author. Four-time runner-up prize winner of Korean SF Award. (Lee is my family name.)* <br> 
 **Leigha McReynolds** - *reviewer, teacher, panelist, reader, and fan!* <br> 
 **Liliana Colanzi** - *Author, winner of the Zinklar Prize for short story writers (Denmark, 2025). Shortlisted for the British Science Fiction Association Award in the Best Translated Short Fiction category for “You Glow in the Dark,” translated by Chris Andrews, 2025. Winner of the Ribera del Duero Prize for Ustedes brillan en lo oscuro, Spain, 2022.* <br> 
 **Lilith Acadia** - *literature professor, author* <br> 
+**Lisa McCarty** - *Podcaster (book reviews, author interviews)* <br> 
 **Lisa Yaszek** - *Scholar, author, editor; Locus finalist, CHOICE outstanding author* <br> 
+**lix.mckenzie** - *Reader & Fan* <br> 
 **Mallory Craig-Kuhn** - *Author & translator* <br> 
 **Margaryta Golovchenko** - *reviewer* <br> 
 **Maria Thereza Dumas Neto** - *Reader and fan!* <br> 
@@ -136,6 +150,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Mordecai Martin** - *Translator, writer, reader* <br> 
 **Nadia A. King** - *Writer* <br> 
 **Navi** - *Reader and fan!* <br> 
+**Ng Yi-Sheng** - *Writer, editor, researcher, translator* <br> 
 **Nina Shepardson** - *Reader, author, Hugo voter* <br> 
 **Noah Springer** - *Acquisitions Editor for the Radium Age Series at the MIT Press. Our book The Inhumans and Other Stories, translated by Bodhisattva Chattopadhyay is a finalist for the 2025 Locus Award for an anthology.* <br> 
 **O F Cieri** - *Author* <br> 
@@ -143,6 +158,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Paul Weimer** - *reviewer* <br> 
 **Pedro Ponce** - *Author and reviewer* <br> 
 **Peter Watts** - *author* <br> 
+**R.W.W. Greene** - *Author* <br> 
 **Rachel Brown** - *Reader and fan!* <br> 
 **Rachel Cordasco** - *author, editor, reviewer, translator* <br> 
 **Ramsey Kanaan** - *Publisher, PM Press* <br> 
