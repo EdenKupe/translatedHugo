@@ -182,7 +182,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Seb Doubinsky** - *Author, translator* <br> 
 **Seoung Kim** - *writer and librarian* <br> 
 **Seth Heasley** - *podcaster, three-time Hugo finalist for Best Fancast* <br> 
-**Shiv Ramdas** - *Author, have been a finalist for the Hugo, Nebula and Ignyte Awards * <br> 
+**Shiv Ramdas** - *Author, have been a finalist for the Hugo, Nebula and Ignyte Awards* <br> 
 **Silvia Düssel Schiros** - *Translator* <br> 
 **Silvia Park** - *Author* <br> 
 **Sira Maliphol** - *Reader and fan!* <br> 
