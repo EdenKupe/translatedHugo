@@ -90,6 +90,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Grace Chan** - *Author* <br> 
 **Hache Pueyo** - *Author and translator* <br> 
 **Hilary Strang** - *reader & teacher of SF* <br> 
+**Hinse Mutter** - *author* <br> 
 **Holly Lyn Walrath** - *Writer, poet, and managing editor of Interstellar Flight Press* <br> 
 **Ilona Yazhbin Chavasse** - *translator* <br> 
 **J.W. Wartick** - *reviewer* <br> 
