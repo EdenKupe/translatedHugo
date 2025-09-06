@@ -93,6 +93,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Hinse Mutter** - *author* <br> 
 **Holly Lyn Walrath** - *Writer, poet, and managing editor of Interstellar Flight Press* <br> 
 **Ilona Yazhbin Chavasse** - *translator* <br> 
+**Isabel Stainsby** - *Translator, reader and fan* <br> 
 **J.W. Wartick** - *reviewer* <br> 
 **Jake Casella Brookins** - *Reviewer, editor, podcaster. Hugo & Ignyte finalist.* <br> 
 **James Johnson** - *Editor, part of Hugo-winning team* <br> 
@@ -120,6 +121,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Karla Costa** - *reader* <br> 
 **Kate Dollarhyde** - *author, game designer, former co-Editor-in-Chief of Strange Horizons; Peabody, Nebula, and GLAAD Media award-winner* <br> 
 **Kate Elliott** - *author* <br> 
+**Kate Heartfield** - *Author, Aurora winner, finalist for Nebula, World Fantasy, Locus, Crawford, Sunburst and Scribe awards* <br> 
 **Kendra Preston Leonard** - *author, editor, reviewer* <br> 
 **Kerry Taylor** - *Marketing & Publicity Coordinator at Levine Querido* <br> 
 **Laura Kemmerer** - *Reviewer, reader, and fan* <br> 
@@ -130,6 +132,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Lisa McCarty** - *Podcaster (book reviews, author interviews)* <br> 
 **Lisa Yaszek** - *Scholar, author, editor; Locus finalist, CHOICE outstanding author* <br> 
 **lix.mckenzie** - *Reader & Fan* <br> 
+**Lucas Rizoli** - *Reader abd fan!* <br> 
 **Mallory Craig-Kuhn** - *Author & translator* <br> 
 **Margaryta Golovchenko** - *reviewer* <br> 
 **Maria Thereza Dumas Neto** - *Reader and fan!* <br> 
