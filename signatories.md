@@ -43,6 +43,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Arkady Martine** - *author, Hugo winner (translator of academic things, also)* <br> 
 **Arturo Serrano** - *author, reviewer, winner of Ignyte and Hugo* <br> 
 **Ben Ghan** - *Author, Critic, Reader* <br> 
+**Benjamin Rosenbaum** - *author (finalist for Hugo, Nebula, BSFA, Sturgeon, World Fantasy, Locus Awards), game designer (finalist for Ennie Award)* <br> 
 **Bodhisattva Chattopadhyay** - *Author, editor, reviewer, translator* <br> 
 **Carmen Marin** - *Cultural Consultant, Reader and Fan* <br> 
 **Caroline Hung** - *author, nominee for a 2024 Shirley Jackson Award in short fiction* <br> 
@@ -60,6 +61,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Dave Agnew** - *Reader and fan (and sometime author and editor)* <br> 
 **dave ring** - *Author/Editor/Publisher* <br> 
 **David Farnell** - *Author, editor, reviewer, academic* <br> 
+**David Gillette** - *Library worker* <br> 
 **Dee Holloway** - *author, reviewer, reader* <br> 
 **Dylan Hasaton** - *literary agent, reviewer* <br> 
 **Dylan McGonigle** - *bookseller* <br> 
@@ -80,6 +82,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Eric Lundgren** - *Author and publishing employee* <br> 
 **Erica Friedman** - *Author, Editor, Publisher* <br> 
 **Fabius Mayland** - *Former researcher in science fiction studies* <br> 
+**Fatma Isikdag** - *Reader* <br> 
 **Fitz** - *Stargazer* <br> 
 **Francesco Verso** - *Author and Editor of Future Fiction. Winner of 3 Europe Award, 2 Urania Awards, 1 Galaxy Award, 1 Marco Polo Award.* <br> 
 **Frank Rudiger Lopes** - *Author, translator, academic researcher* <br> 
@@ -157,6 +160,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Ng Yi-Sheng** - *Writer, editor, researcher, translator* <br> 
 **Nina Shepardson** - *Reader, author, Hugo voter* <br> 
 **Noah Springer** - *Acquisitions Editor for the Radium Age Series at the MIT Press. Our book The Inhumans and Other Stories, translated by Bodhisattva Chattopadhyay is a finalist for the 2025 Locus Award for an anthology.* <br> 
+**Nora Madden** - *reader, public library worker* <br> 
 **O F Cieri** - *Author* <br> 
 **Paul March-Russell** - *Editor* <br> 
 **Paul Weimer** - *reviewer* <br> 
