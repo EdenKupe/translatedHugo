@@ -67,7 +67,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **E.G. Condé** - *Author* <br> 
 **Eddy Torres** - *Reader and fan* <br> 
 **Eden Kupermintz** - *Reviewer* <br> 
-**Ekaterina Sedia** - *Author, translator; former editor * <br> 
+**Ekaterina Sedia** - *Author, translator; former editor* <br> 
 **Eleanor McAdam** - *Writer, PhD student, Reader* <br> 
 **Electra Pritchett** - *Critic, reader, and fan* <br> 
 **Elias Eells** - *Author and reviewer* <br> 

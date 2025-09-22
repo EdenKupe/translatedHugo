@@ -3,6 +3,7 @@ import eleventyNavigationPlugin             from "@11ty/eleventy-navigation";
 import { InputPathToUrlTransformPlugin }    from "@11ty/eleventy";
 import { eleventyImageTransformPlugin }     from "@11ty/eleventy-img";
 import { EleventyHtmlBasePlugin }           from "@11ty/eleventy";
+import { I18nPlugin } from "@11ty/eleventy";
 // END 11TY imports
 
 // START LibDoc imports
@@ -13,6 +14,21 @@ import libdocFunctions                      from "./_data/libdocFunctions.js";
 export default function(eleventyConfig) {
     // START PLUGINS
     eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+    eleventyConfig.addPlugin(I18nPlugin, {
+		defaultLanguage: "en",
+		// Rename the default universal filter names
+		filters: {
+			// transform a URL with the current page’s locale code
+			url: "locale_url",
+
+			// find the other localized content for a specific input file
+			links: "locale_links",
+		},
+		// When to throw errors for missing localized content files
+		//errorMode: "strict", // throw an error if content is missing at /en/slug
+		errorMode: "allow-fallback", // only throw an error when the content is missing at both /en/slug and /slug
+		// errorMode: "never", // don’t throw errors for missing content
+	});
     eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
     eleventyConfig.addPlugin(eleventyImageTransformPlugin, libdocFunctions.pluginsParameters.eleventyImageTransform());

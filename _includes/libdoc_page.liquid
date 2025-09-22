@@ -338,6 +338,15 @@
                     </details>
                 {% endif %}
             </header>
+
+{% assign links = page.url | locale_links %}
+{%- if links.length > 0 %}
+<p>This page is also available in:</p>
+{%- for link in links %}
+{%- unless forloop.first %},{% endunless %}
+<a href="{{link.url}}" lang="{{link.lang}}" hreflang="{{link.lang}}">{{link.label}}</a>
+{%- endfor -%}
+{%- endif %}
             {{ content | cleanup | autoids }}
             <footer class="minh-100vh">
                 <div class="pt-11 | blwidth-1 blstyle-dashed bcolor-neutral-500"></div>
