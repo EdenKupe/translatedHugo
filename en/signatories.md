@@ -28,6 +28,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Alex Woodroe** - *Editor & Publisher of Shirley Jackson nominated works & Wonderland award winners* <br> 
 **Alexander Dickow** - *Author, reviewer, translator, fan.* <br> 
 **Alexander Pyles** - *Author, editor, & critic; Forward Indie Award-winner* <br> 
+**Alice Ray** - *Translator and researcher* <br> 
 **Amal El-Mohtar** - *Author, reviewer, have won Hugos & other awards* <br> 
 **Amber** - *Reviewer* <br> 
 **andré carrington** - *Critic, past finalist for Locus Award* <br> 
@@ -69,7 +70,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **E.G. Condé** - *Author* <br> 
 **Eddy Torres** - *Reader and fan* <br> 
 **Eden Kupermintz** - *Reviewer* <br> 
-**Ekaterina Sedia** - *Author, translator; former editor* <br> 
+**Ekaterina Sedia** - *Author, translator; former editor * <br> 
 **Eleanor McAdam** - *Writer, PhD student, Reader* <br> 
 **Electra Pritchett** - *Critic, reader, and fan* <br> 
 **Elias Eells** - *Author and reviewer* <br> 
@@ -95,6 +96,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Hilary Strang** - *reader & teacher of SF* <br> 
 **Hinse Mutter** - *author* <br> 
 **Holly Lyn Walrath** - *Writer, poet, and managing editor of Interstellar Flight Press* <br> 
+**Iana A.** - *author, translator, editor* <br> 
 **Ilona Yazhbin Chavasse** - *translator* <br> 
 **Isabel Stainsby** - *Translator, reader and fan* <br> 
 **J.W. Wartick** - *reviewer* <br> 
