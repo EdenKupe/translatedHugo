@@ -64,6 +64,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **David Farnell** - *Author, editor, reviewer, academic* <br> 
 **David Gillette** - *Library worker* <br> 
 **Dee Holloway** - *author, reviewer, reader* <br> 
+**Drew Broussard** - *author, bookseller, podcaster, editor, reader!* <br> 
 **Dylan Hasaton** - *literary agent, reviewer* <br> 
 **Dylan McGonigle** - *bookseller* <br> 
 **E.D.E. Bell** - *editor, publisher, and MIPA award-winning author* <br> 
