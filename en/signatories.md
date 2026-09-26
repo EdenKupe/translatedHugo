@@ -53,7 +53,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Chris M. Barkley** - *2023 Hugo Award Winner (Best Fan Writer), Reporter, Essayist, Reviewer and News Editor for File 770.com* <br> 
 **Christina Lord** - *Scholar of French science fiction* <br> 
 **Christy Hall** - *Reader* <br> 
-**CRISTIAN TAMAS** - *Co-Editor of the European Speculative Fiction Anthology, Edtor of SFantastica, the online magazine of the Romanian Science Fiction & Fantasy Society, Secretary of the Romanian Science Fiction & Fantasy Society, reviewer, essayist, translator, coordinator of ProspectArt, the RSFFS' online SF Club.* <br> 
+**Cristian Tamaş** - *Co-Editor of the European Speculative Fiction Anthology, Edtor of SFantastica, the online magazine of the Romanian Science Fiction & Fantasy Society, Secretary of the Romanian Science Fiction & Fantasy Society, reviewer, essayist, translator, coordinator of ProspectArt, the RSFFS' online SF Club.* <br> 
 **Crystal Blodgett** - *Reader and 3rd generation fan if you count Oz* <br> 
 **Cynthia Handford** - *Reader, fan, Hugo voter* <br> 
 **Cynthia Shin** - *reviewer, academic, translator, fan <3* <br> 
@@ -119,7 +119,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Jill Roberts** - *Managing Editor* <br> 
 **JL George** - *Author, reviewer* <br> 
 **Joachim Boaz** - *Fan writer (SF and Other Suspect Ruminations)* <br> 
-**João Ventura ** - *Author and fan* <br> 
+**João Ventura** - *Author and fan* <br> 
 **Jocelyne Allen** - *translator* <br> 
 **John Borland** - *Writer, translator, reader* <br> 
 **John Mitchell** - *Author and reader* <br> 
