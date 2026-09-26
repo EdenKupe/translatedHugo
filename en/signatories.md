@@ -51,7 +51,9 @@ This page will be updated with the names of folks who support the proposal to ad
 **Cassiel Merricat** - *translator* <br> 
 **Catarina Nabais** - *Reviewer, reader and fan* <br> 
 **Chris M. Barkley** - *2023 Hugo Award Winner (Best Fan Writer), Reporter, Essayist, Reviewer and News Editor for File 770.com* <br> 
+**Christina Lord** - *Scholar of French science fiction* <br> 
 **Christy Hall** - *Reader* <br> 
+**CRISTIAN TAMAS** - *Co-Editor of the European Speculative Fiction Anthology, Edtor of SFantastica, the online magazine of the Romanian Science Fiction & Fantasy Society, Secretary of the Romanian Science Fiction & Fantasy Society, reviewer, essayist, translator, coordinator of ProspectArt, the RSFFS' online SF Club.* <br> 
 **Crystal Blodgett** - *Reader and 3rd generation fan if you count Oz* <br> 
 **Cynthia Handford** - *Reader, fan, Hugo voter* <br> 
 **Cynthia Shin** - *reviewer, academic, translator, fan <3* <br> 
@@ -92,6 +94,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Gabriela Ramírez** - *Reader and fan* <br> 
 **Gareth Reeves** - *Author, reviewer, editor* <br> 
 **Gavin Grant** - *Reader* <br> 
+**Gita** - *author* <br> 
 **Grace Chan** - *Author* <br> 
 **Hache Pueyo** - *Author and translator* <br> 
 **Hilary Strang** - *reader & teacher of SF* <br> 
@@ -116,6 +119,7 @@ This page will be updated with the names of folks who support the proposal to ad
 **Jill Roberts** - *Managing Editor* <br> 
 **JL George** - *Author, reviewer* <br> 
 **Joachim Boaz** - *Fan writer (SF and Other Suspect Ruminations)* <br> 
+**João Ventura ** - *Author and fan* <br> 
 **Jocelyne Allen** - *translator* <br> 
 **John Borland** - *Writer, translator, reader* <br> 
 **John Mitchell** - *Author and reader* <br> 
@@ -200,9 +204,11 @@ This page will be updated with the names of folks who support the proposal to ad
 **So Mayer** - *author, translation advocate, bookseller, editor of Locus Award Non-Fiction winner Space Crone* <br> 
 **Sofia Soter** - *Translator, author, copyeditor* <br> 
 **Soila Kenya** - *Reader and fan, Reviewer* <br> 
+**Sophia-Maria** - *Author and editor coming from Greece but writing in English. Work in Apex, The Deadlands and other places. * <br> 
 **Sue Burke** - *Author, translator, winner of ATA Alicia Gordon Award for Word Artistry in Translation* <br> 
 **Susan Buckley** - *Acquisitions Editor at the MIT Press* <br> 
 **Suzanna Tamminen** - *Director and editor in chief at Wesleyan University Press* <br> 
+**Terry Fairchild** - *reader and fan* <br> 
 **Todd Sanders** - *Editor/Publisher/Translator* <br> 
 **Vajra Chandrasekera** - *Writer. Nebula, Ignyte, Otherwise Award winner; Le Guin, Lammy, Hugo finalist.* <br> 
 **Victor Manibo** - *Author* <br> 
